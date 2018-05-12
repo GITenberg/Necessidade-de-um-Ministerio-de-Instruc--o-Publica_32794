@@ -1,0 +1,33 @@
+_repo: Necessidade-de-um-Ministerio-de-Instruc--o-Publica_32794
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macedo, Antonio da Costa de Souza de
+    aliases:
+    - Da Costa de Souza de Macedo, Antonio
+    - De Macedo, Antonio da Costa de Souza
+    - De Souza de Macedo, Antonio da Costa
+    - Costa, Antonio da
+    - Costa de Souza de Macedo, Antonio da
+    - Souza de Macedo, Antonio da Costa de
+    birthdate: 1824
+    deathdate: 1892
+    gutenberg_agent_id: '36051'
+    url: http://www.gutenberg.org/2009/agents/36051
+description: ''
+gutenberg_issued: '2010-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32794'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'School management and organization -- Portugal'
+- !lcc 'LA'
+title: Necessidade de um Ministerio de Instrucção Publica
+url: http://www.gutenberg.org/ebooks/32794
